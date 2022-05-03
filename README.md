@@ -5,3 +5,4 @@ Repositório criado para o Desafio de Projeto.
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 Bruno Rissi
+Sofia Rissi
